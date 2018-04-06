@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Projects\glad\CMakeLists.txt" />
+    <CustomBuild Include="D:\Projects\_build_glad\CMakeFiles\cb4bbb57fa0e0cc33bbd5690bade0bc8\glad.c.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Projects\_build_glad\CMakeFiles\fa00a31aaa5f45577296e85ce54c3995\glad-generate-files.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\Projects\_build_glad\CMakeFiles\glad-generate-files" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{52E7D0CE-85A4-32AD-ABC5-45BD6EE38A43}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

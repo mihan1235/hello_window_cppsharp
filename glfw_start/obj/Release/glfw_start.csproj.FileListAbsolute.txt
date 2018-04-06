@@ -1,0 +1,7 @@
+C:\Users\mihan\source\repos\hello_window_cppsharp\_build\Release\glfw_start.exe.config
+C:\Users\mihan\source\repos\hello_window_cppsharp\_build\Release\glfw_start.exe
+C:\Users\mihan\source\repos\hello_window_cppsharp\_build\Release\glfw_start.pdb
+C:\Users\mihan\source\repos\hello_window_cppsharp\glfw_start\obj\Release\glfw_start.csprojResolveAssemblyReference.cache
+C:\Users\mihan\source\repos\hello_window_cppsharp\glfw_start\obj\Release\glfw_start.csproj.CoreCompileInputs.cache
+C:\Users\mihan\source\repos\hello_window_cppsharp\glfw_start\obj\Release\glfw_start.exe
+C:\Users\mihan\source\repos\hello_window_cppsharp\glfw_start\obj\Release\glfw_start.pdb

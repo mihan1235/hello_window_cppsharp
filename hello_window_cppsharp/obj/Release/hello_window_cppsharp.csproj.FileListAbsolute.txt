@@ -1,0 +1,10 @@
+c:\users\mihan\source\repos\hello_window_cppsharp\_build\x64\Release\hello_window_cppsharp.exe.config
+c:\users\mihan\source\repos\hello_window_cppsharp\_build\x64\Release\hello_window_cppsharp.exe
+c:\users\mihan\source\repos\hello_window_cppsharp\_build\x64\Release\hello_window_cppsharp.pdb
+c:\users\mihan\source\repos\hello_window_cppsharp\_build\Release\hello_window_cppsharp.exe.config
+c:\users\mihan\source\repos\hello_window_cppsharp\_build\Release\hello_window_cppsharp.exe
+c:\users\mihan\source\repos\hello_window_cppsharp\_build\Release\hello_window_cppsharp.pdb
+c:\users\mihan\source\repos\hello_window_cppsharp\hello_window_cppsharp\obj\Release\hello_window_cppsharp.csproj.CoreCompileInputs.cache
+c:\users\mihan\source\repos\hello_window_cppsharp\hello_window_cppsharp\obj\Release\hello_window_cppsharp.exe
+c:\users\mihan\source\repos\hello_window_cppsharp\hello_window_cppsharp\obj\Release\hello_window_cppsharp.pdb
+C:\Users\mihan\source\repos\hello_window_cppsharp\hello_window_cppsharp\obj\Release\hello_window_cppsharp.csprojResolveAssemblyReference.cache

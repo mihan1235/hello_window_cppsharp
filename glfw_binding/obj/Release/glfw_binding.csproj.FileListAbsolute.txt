@@ -1,0 +1,14 @@
+C:\Users\mihan\source\repos\hello_window_cppsharp\glfw_binding\bin\Release\glfw_binding.dll
+C:\Users\mihan\source\repos\hello_window_cppsharp\glfw_binding\bin\Release\glfw_binding.pdb
+C:\Users\mihan\source\repos\hello_window_cppsharp\glfw_binding\bin\Release\CppSharp.AST.dll
+C:\Users\mihan\source\repos\hello_window_cppsharp\glfw_binding\bin\Release\CppSharp.dll
+C:\Users\mihan\source\repos\hello_window_cppsharp\glfw_binding\bin\Release\CppSharp.Generator.dll
+C:\Users\mihan\source\repos\hello_window_cppsharp\glfw_binding\bin\Release\CppSharp.Parser.CLI.dll
+C:\Users\mihan\source\repos\hello_window_cppsharp\glfw_binding\bin\Release\CppSharp.Parser.dll
+C:\Users\mihan\source\repos\hello_window_cppsharp\glfw_binding\bin\Release\CppSharp.Runtime.dll
+C:\Users\mihan\source\repos\hello_window_cppsharp\glfw_binding\obj\Release\glfw_binding.csprojResolveAssemblyReference.cache
+C:\Users\mihan\source\repos\hello_window_cppsharp\glfw_binding\obj\Release\glfw_binding.csproj.CoreCompileInputs.cache
+C:\Users\mihan\source\repos\hello_window_cppsharp\glfw_binding\obj\Release\glfw_binding.dll
+C:\Users\mihan\source\repos\hello_window_cppsharp\glfw_binding\obj\Release\glfw_binding.pdb
+C:\Users\mihan\source\repos\hello_window_cppsharp\_build\Release\glfw_binding.dll
+C:\Users\mihan\source\repos\hello_window_cppsharp\_build\Release\glfw_binding.pdb

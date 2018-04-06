@@ -1,0 +1,4 @@
+D:/Projects/_build_glad/CMakeFiles/glad.dir
+D:/Projects/_build_glad/CMakeFiles/glad-generate-files.dir
+D:/Projects/_build_glad/CMakeFiles/ALL_BUILD.dir
+D:/Projects/_build_glad/CMakeFiles/ZERO_CHECK.dir
